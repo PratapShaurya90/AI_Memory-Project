@@ -8,5 +8,13 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "cookies-parser": "^1.2.0",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "json-web-token": "^4.0.1",
+    "mongoose": "^9.8.1"
+  }
 }
