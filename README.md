@@ -87,3 +87,6 @@ The Higher-Order Agent serves as an autonomous cognitive controller that directs
 
 * **Metacognitive Coordination:**
   By governing how Short-Term, Long-Term, Reference, and Ordinary Memory interact, the Higher-Order Agent transforms a collection of databases into a unified cognitive organism. It ensures the AI agent does not merely respond to prompts, but maintains genuine continuity of thought, context, and identity across unbounded interactions.
+
+**Stay tuned for more updates!**
+Follow me on GitHub to see what I'm building. Want to connect or collaborate? Feel free to email me at **singhshauryapratap83@gmail.com**.
