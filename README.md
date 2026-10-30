@@ -1,4 +1,4 @@
-# Cognitive Memory Architecture for Intelligent Agents
+# 4 Layer Memory Architecture for Intelligent Agents
 
 ## Conceptual Foundation
 
